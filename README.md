@@ -27,3 +27,25 @@ Proses ini menggunakan bantuan **IBM Granite AI** untuk data summarization dan i
 
 ## 👥 Author  
 - Fiola Indi
+- 
+## 📈 Findings & Insight  
+- Mayoritas tweet bernada **negatif** terhadap maskapai.  
+- Tweet positif relatif sedikit dibandingkan negatif & netral.  
+- Model baseline dapat memprediksi sentimen dengan akurasi awal yang cukup baik.  
+
+## 📌 Conclusion & Recommendation  
+Berdasarkan hasil analisis:  
+- Mayoritas tweet bernada negatif → menunjukkan adanya masalah customer experience.  
+- Sentimen positif jauh lebih sedikit → peluang maskapai meningkatkan pelayanan.  
+- Model machine learning sederhana (Naive Bayes/Logistic Regression) sudah cukup memberi baseline.  
+
+🔮 Rekomendasi:  
+1. Maskapai perlu meningkatkan **customer service responsiveness** di Twitter.  
+2. Bisa gunakan sistem **sentiment monitoring** real-time untuk mendeteksi masalah lebih cepat.  
+3. Eksperimen model yang lebih advance (SVM, LSTM) untuk akurasi yang lebih tinggi.  
+
+## 🤖 AI Support Explanation  
+Proyek ini didukung oleh **IBM Granite AI** yang membantu dalam:  
+- Membuat ringkasan insight dari hasil EDA.  
+- Membantu interpretasi hasil model.  
+- Memberi rekomendasi berdasarkan temuan data.
